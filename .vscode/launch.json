@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch ApirestApplication",
+        "request": "launch",
+        "mainClass": "com.apirest.apirest.ApirestApplication",
+        "env": {
+          "SPRING_DATASOURCE_URL": "jdbc:postgresql://localhost:5432/database",
+          "SPRING_DATASOURCE_USERNAME": "alejandro",
+          "SPRING_DATASOURCE_PASSWORD": "123456",
+          "SPRING_DATASOURCE_DB": "database"
+        }
+      }
+    ]
+  }
