@@ -8,8 +8,8 @@
         "mainClass": "com.apirest.apirest.ApirestApplication",
         "env": {
           "SPRING_DATASOURCE_URL": "jdbc:postgresql://localhost:5432/database",
-          "SPRING_DATASOURCE_USERNAME": "alejandro",
-          "SPRING_DATASOURCE_PASSWORD": "123456",
+          "SPRING_DATASOURCE_USERNAME": "tu_nombre",
+          "SPRING_DATASOURCE_PASSWORD": "tu_contraseña",
           "SPRING_DATASOURCE_DB": "database"
         }
       }
